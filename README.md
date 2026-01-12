@@ -1,3 +1,6 @@
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18217969.svg)
+
+
 # The-Archetype
 The Archetype: A Non-Perturbative Arithmetic Unification from the Even Unimodular Lorentzian Lattice $II_{25,1}$
 The Archetype: Final Technical Abstract
